@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Programming Languages</string>
+    <string name="top_10_programming_languages">Top 10 Programming Languages</string>
+    <string name="description">Description</string>
+    <string name="founder">Founder</string>
+    <string name="inventor">Inventor</string>
+</resources>
